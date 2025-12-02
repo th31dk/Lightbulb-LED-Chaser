@@ -2,7 +2,7 @@
 This is a submission to Prototype. It's a LED Chaser in the shape of a light bulb. It's powered by a 555 timer and a 4017 IC. 
 
 ## 3D Model
-I like how EasyEDA has all the 3D models of the components preinstalled. It definetly saved me some time from searching online.
+I like how EasyEDA has all the 3D models of the components preinstalled. It definetly saved me some time from searching online.  
 <img width="459" height="657" alt="3D View" src="https://github.com/user-attachments/assets/5b26b119-1699-4369-a1a8-8c1b07eb1433" />
 
 ## PCB
