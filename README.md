@@ -1,5 +1,9 @@
 # Lightbulb-LED-Chaser
-This is a submission to Prototype. It's a LED Chaser in the shape of a light bulb. It's powered by a 555 timer and a 4017 IC.   
+This is a submission to Blueprint. It's a LED Chaser in the shape of a light bulb. It's powered by a 555 timer and a 4017 IC.   
+
+![image](https://github.com/user-attachments/assets/73dd0b82-498d-40da-b4e6-6440242a81a7)
+
+[Video Demo](https://youtube.com/shorts/wBW2cOLEOjs)
 
 I've attached the Bill of Materials [here](https://github.com/th31dk/Lightbulb-LED-Chaser/blob/main/BOM.csv).
 ## 3D Model
